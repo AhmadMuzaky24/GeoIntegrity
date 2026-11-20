@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Ahmad Muzaky\\Documents\\Blockchain_Project\\geo-integrity\\chain\\contracts\\GeoAnchor.sol": {
+      "lastModificationDate": 1795093123203,
+      "contentHash": "2359211bc14f8627ac7620ed141134a8",
+      "sourceName": "contracts/GeoAnchor.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "GeoAnchor"
+      ]
+    }
+  }
+}
